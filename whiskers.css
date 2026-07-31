@@ -1,0 +1,11 @@
+/* Extra facial detail for every cat: tiny blush, nose, and three whiskers per side. */
+.cat.white{background:
+linear-gradient(12deg,transparent 48%,#77636f 49% 51%,transparent 52%) -7px 24px/20px 9px no-repeat,
+linear-gradient(-12deg,transparent 48%,#77636f 49% 51%,transparent 52%) -7px 29px/20px 9px no-repeat,
+linear-gradient(12deg,transparent 48%,#77636f 49% 51%,transparent 52%) 30px 24px/20px 9px no-repeat,
+linear-gradient(-12deg,transparent 48%,#77636f 49% 51%,transparent 52%) 30px 29px/20px 9px no-repeat,
+radial-gradient(circle at 34% 53%,#413b45 0 2px,transparent 3px),radial-gradient(circle at 66% 53%,#413b45 0 2px,transparent 3px),radial-gradient(ellipse at 50% 70%,#ef91a4 0 3px,transparent 4px),linear-gradient(#fff,#f4f4f4)}
+.cat.mist{background:
+linear-gradient(12deg,transparent 48%,#77636f 49% 51%,transparent 52%) -7px 24px/20px 9px no-repeat,linear-gradient(-12deg,transparent 48%,#77636f 49% 51%,transparent 52%) -7px 29px/20px 9px no-repeat,linear-gradient(12deg,transparent 48%,#77636f 49% 51%,transparent 52%) 30px 24px/20px 9px no-repeat,linear-gradient(-12deg,transparent 48%,#77636f 49% 51%,transparent 52%) 30px 29px/20px 9px no-repeat,radial-gradient(circle at 34% 53%,#413b45 0 2px,transparent 3px),radial-gradient(circle at 66% 53%,#413b45 0 2px,transparent 3px),radial-gradient(ellipse at 50% 70%,#ef91a4 0 3px,transparent 4px),linear-gradient(130deg,#fff 44%,#adb0bc 45%,#c6c8d0 65%,#fff 66%)}
+.cat.ginger{background:
+linear-gradient(12deg,transparent 48%,#704c43 49% 51%,transparent 52%) -7px 24px/20px 9px no-repeat,linear-gradient(-12deg,transparent 48%,#704c43 49% 51%,transparent 52%) -7px 29px/20px 9px no-repeat,linear-gradient(12deg,transparent 48%,#704c43 49% 51%,transparent 52%) 30px 24px/20px 9px no-repeat,linear-gradient(-12deg,transparent 48%,#704c43 49% 51%,transparent 52%) 30px 29px/20px 9px no-repeat,radial-gradient(circle at 34% 53%,#3d3030 0 2px,transparent 3px),radial-gradient(circle at 66% 53%,#3d3030 0 2px,transparent 3px),radial-gradient(ellipse at 50% 70%,#f2a2aa 0 3px,transparent 4px),linear-gradient(90deg,#e67945 0 27%,#f2a567 28% 43%,#df693f 44% 55%,#f2a567 56% 72%,#e67945 73%)}
